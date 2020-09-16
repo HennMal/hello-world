@@ -7,6 +7,6 @@ My Name is Hennie Malherbe.
 
 I work at Denel Aeronautics in South-Africa.
 
-I doe BI Development and Sharepoint administration.
+I do BI Development and Sharepoint administration.
 
 I like to learn more about AI and DeepLearning.
